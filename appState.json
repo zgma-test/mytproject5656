@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "MyTProject5656.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 5
+          "lineNumber": 3,
+          "column": 48
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -23,7 +23,7 @@
           "name": "MyTProject5656"
         },
         "triggers": [],
-        "lastUpdated": 1602066247083
+        "lastUpdated": 1602072909610
       }
     },
     "openFiles": [
@@ -34,7 +34,7 @@
     "customTemplate": {
       "syntax": "JSON",
       "overrideDefault": false,
-      "dialect": null,
+      "dialect": "CloudFormation",
       "definitions": null
     },
     "envVariables": [
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1602066249256
+    "lastSave": 1602072915601
   },
   "VCS_STATE": {
     "provider": "GitHub",
